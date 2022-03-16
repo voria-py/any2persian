@@ -23,12 +23,11 @@ Run `gui.py`
 - add voice detection for conversation translate.
 - standard deploy for MacOS , Linux , Windows.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Screenshots
 
 ![App Screenshot](https://github.com/amirkho-py/any2persian/blob/main/ScreenShot.png)
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
