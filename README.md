@@ -30,5 +30,5 @@ Run `gui.py`
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/amirkho-py/any2persian/blob/main/ScreenShot.png)
 
