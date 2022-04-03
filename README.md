@@ -10,6 +10,8 @@ It's support any languages and automatic detect source language then translate i
 
 ## How to using?
 
+Sure to install requirements.txt file using `pip install -r requirements.txt` 
+
 Clone or download this project.
 
 Run `gui.py` 
