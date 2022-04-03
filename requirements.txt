@@ -1,0 +1,2 @@
+deep_translator
+text_to_speech
